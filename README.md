@@ -1,3 +1,9 @@
 A simple repo introducing myself and my coding capabilities
 Author: Galen Flanagan
-Fun Fact: A photo of mine is a famous internet meme template. (add link here)
+Pet's names: Marshmallow and Peanut, both cats
+Favorite undergraduate classes:
+1. Quantum Comp and Info Processing
+2. Data Structures and Algorithm analysis
+3. Applied Bayesian Statistics
+4. Applied Combinatorics
+5. Programming Languages Theory and Practice
