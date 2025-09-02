@@ -1,4 +1,4 @@
-A simple repo introducing myself and my coding capabilities
+A method for calculating kronecker products
 Author: Galen Flanagan
 Pet's names: Marshmallow and Peanut, both cats
 Favorite undergraduate classes:
