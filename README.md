@@ -2,7 +2,7 @@ A method for calculating kronecker products
 
 Author: Galen Flanagan
 
-Pet's names: Marshmallow and Peanut, both cats
+Pet's names: Marshmallow and Peanut (who is blind), both cats
 
 Favorite undergraduate classes:
 
